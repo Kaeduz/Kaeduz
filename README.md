@@ -2,7 +2,7 @@
 
 Desenvolvedor de software 💻
 
-## Tecnologias que estou estudando 🚀
+## Tecnologias 🚀
 Linguagens e Frameworks
 <p align="left">
 <a href="https://skillicons.dev">
