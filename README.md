@@ -3,15 +3,19 @@
 Desenvolvedor de software 💻
 
 ## Tecnologias que estou estudando 🚀
-- C#
-- Python
-- JavaScript
-- Git e GitHub
-
-## Estatísticas do GitHub 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark)
+Linguagens e Frameworks
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=cs,python,js,html,css,git" />
+</a>
+</p>
+ 
+Ferramentas e Ambiente
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=vscode,figma,windows" />
+</a>
+</p>
 
 ## Onde me encontrar 🌐
 - GitHub: https://github.com/Kaeduz
